@@ -1,0 +1,12 @@
+{
+  "name": "meteor-boilerplate",
+  "private": true,
+  "scripts": {
+    "start": "meteor run"
+  },
+  "dependencies": {
+    "lodash": "^4.13.1",
+    "meteor-node-stubs": "~0.2.0",
+    "moment": "^2.14.1"
+  }
+}
