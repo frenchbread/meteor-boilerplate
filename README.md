@@ -2,7 +2,6 @@
 
 Starting point for meteor application.
 
+## License
 
-### License
-
-[MIT license](https://github.com/frenchbread/meteor-boilerplate/blob/master/LICENSE).
+[MIT](https://github.com/frenchbread/meteor-boilerplate/blob/master/LICENSE)
